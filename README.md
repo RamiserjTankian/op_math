@@ -1,2 +1,2 @@
 # op_math
-Sitio para publica definiciones y realizar cálculos matemáticos.
+Sitio para publicar definiciones y realizar cálculos matemáticos.
