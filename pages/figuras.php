@@ -11,6 +11,7 @@
        <h5>En esta seccion se encuentra la calculadora para figuras geometricas, gradualmente se actualizara el sitio para añadir mas figuras y mas tipos de calculos.</h5>
        <!-- La tarjeta inicia oculta con display none y se muestra con show en jquery -->
        <br>
+       <div class="table-responsive">
        <table class="table table-hover tabla-figuras">
   <thead>
     <tr>
@@ -40,7 +41,8 @@
    }
 ?>
   </tbody>
-</table>      
+</table>   
+</div>   
 </div>
 </div>
 </div>
