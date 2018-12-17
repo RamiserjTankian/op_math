@@ -16,6 +16,6 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
     <script type="text/javascript" src="js/operaciones.js"></script>
     <link rel="shortcut icon" href="images/favicon-folder.ico">
-    <title>Matematicas</title>
+    <title>Servicios TI</title>
   </head>
-  <body style="background-size: cover;background-repeat: no-repeat;" background="https://www.xmple.com/wallpaper/gradient-purple-black-linear-1920x1080-c2-000000-8b008b-a-270-f-14.svg">
+  <body style="background-size: cover;background-repeat: no-repeat;" background="https://wallpapertag.com/wallpaper/full/f/2/5/238371-gradient-background-tumblr-1920x1080-for-full-hd.jpg">
