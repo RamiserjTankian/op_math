@@ -23,11 +23,11 @@
     </div>
     <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
+      <span class="sr-only">Anterior</span>
     </a>
     <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
+      <span class="sr-only">Siguiente</span>
     </a>
   </div>
 </div>
@@ -76,10 +76,39 @@ Gobierno del Estado de México</h3>
 <div class="container">
       <div class="shadow-lg p-3 mb-5 bg-white rounded"><div class="bd-example">
   <div style="background:transparent !important" class="jumbotron ">
-  <h1 class="display-3">Hola mundo, soy Ramiro!</h1>
-  <p class="lead">Actualmente estudio la licenciatura de ingenieria en sistemas computacionales en la universidad hipocrates sin embargo prefiero ser autodidacta y estoy aprendiendo a programar en la formula LAMPP.</p>
+  <h1 class="display-3">Nuestros Ingenieros!</h1>
+  <br>
+  <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Grado de estudios</th>
+      <th scope="col">Contacto</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Jesus Manuel</td>
+      <td>Ing. en sistemas computacionales.</td>
+      <td>@Jmanuel</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Luis Ernesto</td>
+      <td>Ing. en Aeronautica</td>
+      <td>@LuisE</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Andres Noriega</td>
+      <td>Lic. diseño y marketing</td>
+      <td>@AndresN</td>
+    </tr>
+  </tbody>
+</table>
   <hr class="my-2">
-  <p>Este sitio es un proyecto personal para practicar y desarrollar habilidades.</p>
 </div>
 </div>
 </div>

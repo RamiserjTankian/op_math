@@ -2,9 +2,8 @@
 	    <div class="shadow-lg p-3 mb-5 bg-white rounded"><div class="bd-example">
 <div style="background:transparent !important" class="jumbotron">
         <div class="container">
-          <h1 class="display-3">Hello, world!</h1>
-          <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+          <h1 class="display-3">Contactanos!</h1>
+          <p>Dejanos tu correo y nosotros te escribiremos con atencion personalizada a tus necesidades.</p>
         </div>
       </div>
 	</div>
@@ -13,23 +12,14 @@
       <div class="container">
         <!-- Example row of columns -->
          <div class="shadow-lg p-3 mb-5 bg-white rounded"><div class="bd-example">
-        <div class="row">
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-          <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-
+         <form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Correo Electronico</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted">No compartiremos tu informacion con nadie mas.</small>
+  </div>
+  <button type="submit" class="btn btn-primary">Enviar!</button>
+</form>
         </div>
         
 </div>
